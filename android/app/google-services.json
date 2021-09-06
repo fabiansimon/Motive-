@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "75351047926",
+    "firebase_url": "https://motivegs-default-rtdb.firebaseio.com",
+    "project_id": "motivegs",
+    "storage_bucket": "motivegs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75351047926:android:2b01e17ce9c72581f8f6d7",
+        "android_client_info": {
+          "package_name": "com.fabiansimon.motives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75351047926-64oa7qp6g6aaqns7ohn5n3p7f8u9b428.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXYgeOlsr3tA6KXPkmwdIsHVVse_OFtxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75351047926-64oa7qp6g6aaqns7ohn5n3p7f8u9b428.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
