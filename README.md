@@ -1,3 +1,3 @@
-# motiveGSv2
+# Motive
 
 Social Media for my uni campus
